@@ -1,5 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
-}
+  }
+
+  body {
+    background-image: url(././images/wall-1851061_1920.jpg);
+    background-color: rgb(82, 79, 79);
+  }
+    
+  
+    .center-txt {
+    margin: auto;
+    width: 40%;
+    font-size: 350%;
+    margin-top: 25px;
+    }
+
+    h1 {
+    font-family: 'Oswald', sans-serif;
+    }
+
+
+   
+
+    .center-img {
+     display: block;
+     margin-left: 10%;
+     margin-right: auto;
+     }
+
+     .nav a {
+      padding-right: 10px;
+      padding-left: 10px;
+      background-color: grey;
+      }
+
+     .nav-center {
+      margin-left: auto;
+      margin-right: auto;
+      width: 45%
+      }
+
+      .fig-center {
+        margin: auto;
+        width: 38%;
+        font-size: 12px;
+      }
+      #featured-property p {
+        margin: auto;
+        width: 800px;
+        line-height: 1.5;
+        text-indent: 50px;
+        text-align: center;
+
+      }
+
+      #details div {
+      float: left;
+      background-color: rgb(139, 44, 44);
+      text-align: center;
+      width: 25%;
+      line-height: 1.5;
+      font-size: 15px
+
+      }
